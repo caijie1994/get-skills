@@ -13,5 +13,4 @@ hello git
 hello git
 hello git master
 hello git hot-fix 
-ddd
 121312312
